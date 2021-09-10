@@ -1,5 +1,6 @@
 <h1 align="center" style="color:white; background-color:black">Genus ADC</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+<h4 align="center">The objective of the ADC subsystem is to determine the targeting of the satellite and control it. The Genus ADC project will be formed by 1 Feature Board which makes the attitude determination and control process and 6 Generic Boards with solar panels and magnetorquers.</h4>
+
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
@@ -33,23 +34,17 @@
 
 <p align="center">
     <a href="#environment-and-tools">Environment and Tools</a> •
-    <a href="#steps-to-run-and-debug">Steps to run and debug</a> •
     <a href="#how-to-contribute">How to contribute?</a> •
 </p>
 
 ## Environment and tools
 
-`Add list of dependencies and software needed to run this project (if possible add the versions that were used in development).`
-
-## Steps to run and debug
-
-`A simple list of steps indicating how one can run and test the project.`
+`.`
 
 ## How to contribute
 
-`(optional, depends on the project) list of simple rules to help people work on the project.`
+`You can make a bug report or a feature request by making a pull request altering the tables` <a href="https://github.com/zenitheesc/Genus-ADC/tree/main/.github/ISSUE_TEMPLATE"> here.</a>
 
-`Examples: How to format a pull request\n How to format an issue`
 
 ---
 
